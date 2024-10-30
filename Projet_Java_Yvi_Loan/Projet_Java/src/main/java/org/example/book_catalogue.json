@@ -1,0 +1,16 @@
+[
+  {
+    "ISBN": 12,
+    "title": "Les fleurs du mal",
+    "description": "Les Fleurs du mal est un recueil de poèmes",
+    "author_name": Charles Baudelaire",
+    "prix": 20
+  },
+  {
+    "ISBN": 34,
+    "title": " Eleven",
+    "description": "C EST UN LIVRE DE FOOTBALL",
+    "author_name": "Marc Evans",
+    "prix": 50
+  }
+]
